@@ -29,14 +29,15 @@ I would continue adding papers to this roadmap.
 
 ## 1.2 Mammalian Synthetic Biology
 
-**[2]** Brophy, Jennifer AN, and Christopher A. Voigt. "**Principles of genetic circuit design.**" Nature methods 11.5 (2014): 508-520. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/papers/principles-of-genetic-circuit-design-2014.pdf))
-:star::star::star::star:
 
 ## 1.3 Minimal Genome
 
 ## 1.4 Microbial Chemical Refineries
 
 ## 1.5 Gene Circuit Design
+
+**[2]** Brophy, Jennifer AN, and Christopher A. Voigt. "**Principles of genetic circuit design.**" Nature methods 11.5 (2014): 508-520. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/papers/principles-of-genetic-circuit-design-2014.pdf))
+:star::star::star::star:
 
 ## 1.6 Ethics Biosafety 
 
