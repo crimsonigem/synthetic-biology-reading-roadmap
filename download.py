@@ -6,12 +6,13 @@ import argparse
 import mistune
 import bs4 as BeautifulSoup
 
-// take information from README.txt
-// clean text for search
-// connect to uni to github paper folder
-// rename paper as necessary
-
-// download pa
+# take information from README.txt
+# clean text for search
+# connect to uni to github paper folder
+# rename paper as necessary
+# download paper
+# TODO// clean functions
+# TODO// complete documentation
 
 def download_pdf(link, location, name):
     '''
