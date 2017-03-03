@@ -13,7 +13,7 @@ The roadmap is constructed in accordance with the following four guidelines:
 
 You will find many papers that are quite new but really worth reading.
 
-I would continue adding papers to this roadmap.
+This list is curated by the Harvard BioDesign Team.  Please contact us at crimsonigem at gmail dot com for comments and updates! 
 
 ---------------------------------------
 
@@ -34,9 +34,17 @@ I would continue adding papers to this roadmap.
 ## 1.2 Gene Circuit Design and Modeling in Synthetic Biology
 
 **[3]** Brophy, Jennifer AN, and Christopher A. Voigt. "**Principles of genetic circuit design.**" Nature methods 11.5 (2014): 508-520. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/principles-of-genetic-circuit-design-2014.pdf))
-:star::star::star::star:
+:star::star::star::star::star:
+
+**[]** Slusarczyk, Adrian L., Allen Lin, and Ron Weiss. "**Foundations for the design and implementation of synthetic genetic circuits.**" Nature Reviews Genetics 13.6 (2012): 406-420.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/foundations-for-the-design-and-implementation-of-synthetic-genetic-circuits-2012.pdf)  :star::star::star::star::star:
+
+**[]**  Wall, Michael E., William S. Hlavacek, and Michael A. Savageau. "**Design of gene circuits: lessons from bacteria.**" Nature Reviews Genetics 5.1 (2004): 34-42.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/design-of-gene-circuits-lessions-from-bacteria-2004.pdf)  :star::star::star::star::star:
 
 ## 1.3 Minimal Genome
+
+**[]** Mushegian, Arcady. "**The minimal genome concept.**" Current opinion in genetics & development 9.6 (1999): 709-714.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/blob/master/papers/the-minimal-genome-concept-1999.pdf)  :star::star::star::star::star:
+
+**[]** Hutchison, Clyde A., et al. "**Design and synthesis of a minimal bacterial genome.**" Science 351.6280 (2016): aad6253.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/design-and-synthesis-of-a-minimal-bacterial-genome-2016.pdf)  :star::star::star::star::star:
 
 ## 1.4 Microbial Chemical Refineries
 
@@ -57,7 +65,7 @@ I would continue adding papers to this roadmap.
 ## 1.6 Plant Synthetic Biology
 **[]** Baltes, Nicholas J., and Daniel F. Voytas. "**Enabling plant synthetic biology through genome engineering.**" Trends in biotechnology 33.2 (2015): 120-131. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/enabling-plant-synthetic-biology-through-genome-engineering-2014.pdf)  :star::star::star::star::
 
-## 1.7 CRISPR
+## 1.7 RNA Synthetic Biology and CRISPR
 
 ## 1.9 iGEM
 
@@ -90,5 +98,5 @@ I would continue adding papers to this roadmap.
 
 
 
-# 2 
+# 2 The Biological Switch
 
