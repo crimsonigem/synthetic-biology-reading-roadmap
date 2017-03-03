@@ -31,6 +31,8 @@ I would continue adding papers to this roadmap.
 
 **[2]** Lienert, Florian, et al. "**Synthetic biology in mammalian cells: next generation research tools and therapeutics.**" Nature Reviews Molecular Cell Biology 15.2 (2014): 95-107. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/synthetic-biology-in-mammalian-cells-next-generation-research-tools-and-therapeutics-2014.pdf)  :star::star::star::star:
 
+**[3]** Keung, Albert J., et al. "**Chromatin regulation at the frontier of synthetic biology.**" Nature Reviews Genetics 16.3 (2015): 159-171. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/chromatin-regulation-at-the-frontier-of-synthetic-biology-2015.pdf)  :star::star::star::star:
+
 ## 1.3 Minimal Genome
 
 ## 1.4 Microbial Chemical Refineries
