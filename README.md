@@ -147,7 +147,9 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 ## 1.13 Synthetic Biology in Industry
 
-**[]** Synbiobeta
+**[41]** [Synbiobeta](http://synbiobeta.com/)
+
+**[42]** "**Synthetic Biology Market Size and Industry Report 2020**"  Allied Market Research [[link]](https://www.alliedmarketresearch.com/synthetic-biology-1520-market)
 
 ## 1.14 Art, Design, Foods and Fashion
 
