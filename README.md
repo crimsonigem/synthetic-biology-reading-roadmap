@@ -149,31 +149,33 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 **[41]** SynBioBeta [[link]](http://synbiobeta.com/)
 
-**[42]** "**Synthetic Biology Market Size and Industry Report 2020**"  Allied Market Research [[link]](https://www.alliedmarketresearch.com/synthetic-biology-1520-market)
+**[42]** IndieBio [[link]](http://indiebio.co/)
+
+**[43]** "**Synthetic Biology Market Size and Industry Report 2020**"  Allied Market Research [[link]](https://www.alliedmarketresearch.com/synthetic-biology-1520-market)
 
 ## 1.14 Art, Design, and Fashion
 
-**[43]** Agapakis, Christina M. "**Designing synthetic biology.**" ACS synthetic biology 3.3 (2013): 121-128.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-reading-roadmap/raw/master/papers/designing-synthetic-biology-2013.pdf)  :star::star:
+**[44]** Agapakis, Christina M. "**Designing synthetic biology.**" ACS synthetic biology 3.3 (2013): 121-128.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-reading-roadmap/raw/master/papers/designing-synthetic-biology-2013.pdf)  :star::star:
 
-**[44]** Oxman, Neri. "***Templating Design for Biology and Biology for Design.***" Architectural Design 85.5 (2015): 100-107.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-reading-roadmap/blob/master/papers/templating-design-for-biology-and-biology-for-design-2015.pdf)  :star::star::star:
+**[45]** Oxman, Neri. "***Templating Design for Biology and Biology for Design.***" Architectural Design 85.5 (2015): 100-107.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-reading-roadmap/blob/master/papers/templating-design-for-biology-and-biology-for-design-2015.pdf)  :star::star::star:
 
-**[45]** Dance, Amber. "**Science and Culture: The art of designing life.**" Proceedings of the National Academy of Sciences 112.49 (2015): 14999-15001.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-reading-roadmap/raw/master/papers/science-and-culture-the-art-of-designing-life-2015.pdf)  :star::star::star:
+**[46]** Dance, Amber. "**Science and Culture: The art of designing life.**" Proceedings of the National Academy of Sciences 112.49 (2015): 14999-15001.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-reading-roadmap/raw/master/papers/science-and-culture-the-art-of-designing-life-2015.pdf)  :star::star::star:
 
-**[46]** Descience  [[link]](http://www.fashiondescience.com/)
+**[47]** Descience  [[link]](http://www.fashiondescience.com/)
 
-**[47]** BioFabricate [[link]](http://www.biofabricate.co/)
+**[48]** BioFabricate [[link]](http://www.biofabricate.co/)
 
 ## 1.15 Ethics and Biosafety 
 
-**[48]** Barras, Vincent, and Gilbert Greub. "**History of biological warfare and bioterrorism.**" Clinical Microbiology and Infection 20.6 (2014): 497-502. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/history-of-biological-warfare-and-bioterrorism-2014.pdf) :star::star::star:
+**[49]** Barras, Vincent, and Gilbert Greub. "**History of biological warfare and bioterrorism.**" Clinical Microbiology and Infection 20.6 (2014): 497-502. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/history-of-biological-warfare-and-bioterrorism-2014.pdf) :star::star::star:
 
-**[49]** Douglas, Thomas, and Julian Savulescu. "**Synthetic biology and the ethics of knowledge.**" Journal of medical ethics 36.11 (2010): 687-693. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/synthetic-biology-and-the-ethics-of-knowledge-2010.pdf)  :star::star::star:
+**[50]** Douglas, Thomas, and Julian Savulescu. "**Synthetic biology and the ethics of knowledge.**" Journal of medical ethics 36.11 (2010): 687-693. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/synthetic-biology-and-the-ethics-of-knowledge-2010.pdf)  :star::star::star:
 
-**[50]** Gutmann, Amy. "**The ethics of synthetic biology: guiding principles for emerging technologies.**" Hastings Center Report 41.4 (2011): 17-22. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/the-ethics-of-synthetic-biology-guiding-principles-for-emerging-technologies-2011.pdf)  :star::star::star:
+**[51]** Gutmann, Amy. "**The ethics of synthetic biology: guiding principles for emerging technologies.**" Hastings Center Report 41.4 (2011): 17-22. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/the-ethics-of-synthetic-biology-guiding-principles-for-emerging-technologies-2011.pdf)  :star::star::star:
 
-**[51]** Redford, Kent H., William Adams, and Georgina M. Mace. "**Synthetic biology and conservation of nature: wicked problems and wicked solutions.**" PLoS Biol 11.4 (2013): e1001530. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/synthetic-biology-and-conservation-of-nature-wicked-problems-and-wicked-solutions-2013.pdf)  :star::star::star:
+**[52]** Redford, Kent H., William Adams, and Georgina M. Mace. "**Synthetic biology and conservation of nature: wicked problems and wicked solutions.**" PLoS Biol 11.4 (2013): e1001530. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/synthetic-biology-and-conservation-of-nature-wicked-problems-and-wicked-solutions-2013.pdf)  :star::star::star:
 
-**[52]** Oye, Kenneth A., et al. "**Regulating gene drives.**" Science 345.6197 (2014): 626-628.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/regulating-gene-drives-2014.pdf)  :star::star::star::star::
+**[53]** Oye, Kenneth A., et al. "**Regulating gene drives.**" Science 345.6197 (2014): 626-628.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/regulating-gene-drives-2014.pdf)  :star::star::star::star::
 
 # 2 The Biological Switch
 
