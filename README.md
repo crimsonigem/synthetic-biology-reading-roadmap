@@ -21,6 +21,14 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 ## 1.0 Synthetic Biology Inspirations
 
+**[]** morowitz
+**[]** woese
+**[]** feynman
+**[]** endy
+**[]** lac operon
+**[]** restriction enzymes
+**[]** Discovery of DNA
+
 ## 1.1 History and Future of Synthetic Biology
 
 **[0]** Cameron, D. Ewen, Caleb J. Bashor, and James J. Collins. "**A brief history of synthetic biology.**." Nature Reviews Microbiology. (2014). [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/a-brief-history-of-synthetic-biology-2014.pdf)  :star::star::star::star::star:
@@ -72,6 +80,8 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 **[]** Mueller, U. G., and J. L. Sachs. "**Engineering microbiomes to improve plant and animal health.**" Trends in microbiology 23.10 (2015): 606-617.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/engineering-microbiomes-to-improve-plant-and-animal-health-2015.pdf)  :star::star::star:
 
+**[]** gene drives
+
 ## 1.7 RNA Synthetic Biology and CRISPR
 
 **[]** Isaacs, Farren J., Daniel J. Dwyer, and James J. Collins. "**RNA synthetic biology.**" Nature biotechnology 24.5 (2006): 545-554.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/rna-synthetic-biology-2006.pdf)  :star::star::star::star::star:
@@ -94,15 +104,26 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 **[]** Packer, Michael S., and David R. Liu. "**Methods for the directed evolution of proteins.**" Nature Reviews Genetics 16.7 (2015): 379-394.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/methods-for-the-directed-evolution-of-proteins-2015.pdf) :star::star::star::star:
 
-**[]** gene drives
-
 **[]** asr synbio
 
 ## 1.13 Enabling Technologies in Synthetic Biology
 
+**[]** sequencing
+**[]** synthesis
+**[]** computation
+**[]** analytic hardware technologies
+**[]** automation and scale
+
 ## 1.11 Synthetic Biology in Industry
 
+**[]** Synbiobeta
+
 ## 1.10 Art, Design, and Fashion
+
+**[]** Media Lab
+**[]** Descience
+**[]** BioFabricate
+**[]** SXSW
 
 ## 1.11 Ethics and Biosafety 
 
