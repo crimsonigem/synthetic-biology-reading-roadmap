@@ -48,7 +48,7 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 **[]**  Wall, Michael E., William S. Hlavacek, and Michael A. Savageau. "**Design of gene circuits: lessons from bacteria.**" Nature Reviews Genetics 5.1 (2004): 34-42.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/design-of-gene-circuits-lessions-from-bacteria-2004.pdf)  :star::star::star::star::star:
 
-## 1.3 Minimal Genome and Genome Design
+## 1.3 The Minimal Genome and Genome Design
 
 **[]** Mushegian, Arcady. "**The minimal genome concept.**" Current opinion in genetics & development 9.6 (1999): 709-714.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/blob/master/papers/the-minimal-genome-concept-1999.pdf)  :star::star::star::star::star:
 
