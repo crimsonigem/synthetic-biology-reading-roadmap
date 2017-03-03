@@ -14,6 +14,7 @@ The roadmap is constructed in accordance with the following four guidelines:
 You will find many papers that are quite new but really worth reading.
 
 I would continue adding papers to this roadmap.
+
 ---------------------------------------
 
 # 1 Synthetic Biology Reviews
@@ -62,6 +63,9 @@ I would continue adding papers to this roadmap.
 
 **[]** Matheson, Susan. "**Engineering a Biological Revolution.**" Cell 168.3 (2017): 329-332.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/engineering-a-biological-revolution-2017.pdf)  :star::star::star:
 
+**[]** Brown, James. "**The iGEM competition: building with biology.**" IET Synthetic Biology 1.1 (2007): 3-6.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/the-igem-competition-building-with-biology-2007.pdf)  :star::star::star::star::
+
+
 ## 1.8 Systems Biology
 
 ## 1.13 Enabling Technologies in Synthetic Biology
@@ -77,6 +81,9 @@ I would continue adding papers to this roadmap.
 **[]** Douglas, Thomas, and Julian Savulescu. "**Synthetic biology and the ethics of knowledge.**" Journal of medical ethics 36.11 (2010): 687-693. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/synthetic-biology-and-the-ethics-of-knowledge-2010.pdf)  :star::star::star:
 
 **[]** Gutmann, Amy. "**The ethics of synthetic biology: guiding principles for emerging technologies.**" Hastings Center Report 41.4 (2011): 17-22. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/the-ethics-of-synthetic-biology-guiding-principles-for-emerging-technologies-2011.pdf)  :star::star::star:
+
+**[]** Redford, Kent H., William Adams, and Georgina M. Mace. "**Synthetic biology and conservation of nature: wicked problems and wicked solutions.**" PLoS Biol 11.4 (2013): e1001530. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/synthetic-biology-and-conservation-of-nature-wicked-problems-and-wicked-solutions-2013.pdf)  :star::star::star:
+
 
 
 
