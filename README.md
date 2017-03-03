@@ -40,11 +40,13 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 **[]**  Wall, Michael E., William S. Hlavacek, and Michael A. Savageau. "**Design of gene circuits: lessons from bacteria.**" Nature Reviews Genetics 5.1 (2004): 34-42.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/design-of-gene-circuits-lessions-from-bacteria-2004.pdf)  :star::star::star::star::star:
 
-## 1.3 Minimal Genome
+## 1.3 Minimal Genome and Genome Design
 
 **[]** Mushegian, Arcady. "**The minimal genome concept.**" Current opinion in genetics & development 9.6 (1999): 709-714.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/blob/master/papers/the-minimal-genome-concept-1999.pdf)  :star::star::star::star::star:
 
 **[]** Hutchison, Clyde A., et al. "**Design and synthesis of a minimal bacterial genome.**" Science 351.6280 (2016): aad6253.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/design-and-synthesis-of-a-minimal-bacterial-genome-2016.pdf)  :star::star::star::star::star:
+
+**[]** Haimovich, Adrian D., Paul Muir, and Farren J. Isaacs. "**Genomes by design.**" Nature Reviews Genetics 16.9 (2015): 501-516.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/genomes-by-design-2015.pdf)  :star::star::star:
 
 ## 1.4 Microbial Chemical Refineries
 
@@ -63,16 +65,22 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 **[]** Esvelt, Kevin M., and Harris H. Wang. "**Genome‐scale engineering for systems and synthetic biology.**" Molecular systems biology 9.1 (2013): 641. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/genome-scale-engineering-for-systems-and-synthetic-biology-2013.pdf) :star::star::star::star::star::
 
 ## 1.6 Plant Synthetic Biology
+
 **[]** Baltes, Nicholas J., and Daniel F. Voytas. "**Enabling plant synthetic biology through genome engineering.**" Trends in biotechnology 33.2 (2015): 120-131. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/enabling-plant-synthetic-biology-through-genome-engineering-2014.pdf)  :star::star::star::star::
 
+## 1.7 Ecosystems Engineering
+
 ## 1.7 RNA Synthetic Biology and CRISPR
+
+**[]** Isaacs, Farren J., Daniel J. Dwyer, and James J. Collins. "**RNA synthetic biology.**" Nature biotechnology 24.5 (2006): 545-554.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/rna-synthetic-biology-2006.pdf)  :star::star::star::star::star:
+
+**[]** McKeague, Maureen, Remus S. Wong, and Christina D. Smolke. "**Opportunities in the design and application of RNA for gene expression control.**" Nucleic acids research (2016): gkw151.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/opportunities-in-the-design-and-application-of-rna-for-gene-control-expression-2016.pdf)  :star::star::star:
 
 ## 1.9 iGEM
 
 **[]** Matheson, Susan. "**Engineering a Biological Revolution.**" Cell 168.3 (2017): 329-332.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/engineering-a-biological-revolution-2017.pdf)  :star::star::star:
 
 **[]** Brown, James. "**The iGEM competition: building with biology.**" IET Synthetic Biology 1.1 (2007): 3-6.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/the-igem-competition-building-with-biology-2007.pdf)  :star::star::star::star::
-
 
 ## 1.8 Systems Biology
 
@@ -99,4 +107,6 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 
 # 2 The Biological Switch
+
+# Metabolic Engineering
 
