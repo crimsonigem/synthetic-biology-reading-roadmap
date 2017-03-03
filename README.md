@@ -136,7 +136,7 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 **[37]** Mardis, Elaine R. "**DNA sequencing technologies: 2006-2016.**" Nature Protocols 12.2 (2017): 213-218.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/dna-sequencing-technologies-2006-2016-2017.pdf)  :star::star::star:
 
-**[38]** Kosuri, Sriram, and George M. Church. "***Large-scale de novo DNA synthesis: technologies and applications.**" Nature methods 11.5 (2014): 499-507.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/large-scale-de-novo-dna-synthesis-technologies-and-applications-2014.pdf)  :star::star::star::star:
+**[38]** Kosuri, Sriram, and George M. Church. "**Large-scale de novo DNA synthesis: technologies and applications.**" Nature methods 11.5 (2014): 499-507.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/large-scale-de-novo-dna-synthesis-technologies-and-applications-2014.pdf)  :star::star::star::star:
 
 **[39]** Chao, Ran, Yongbo Yuan, and Huimin Zhao. "**Recent advances in DNA assembly technologies.**" FEMS yeast research 15.1 (2015): 1-9.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/recent-advances-in-dna-assembly-technologies-2015.pdf)  :star::star::star:
 
@@ -152,7 +152,7 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 **[42]** IndieBio [[link]](http://indiebio.co/)
 
-**[43]** "**Synthetic Biology Market Size and Industry Report 2020**"  Allied Market Research [[link]](https://www.alliedmarketresearch.com/synthetic-biology-1520-market)
+**[43]** Bergin J. "**Synthetic Biology: Global Markets**” BBC Research. 2017. Web. 3 Mar. 2014.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-reading-roadmap/raw/master/papers/synthetic-biology-global-markets-2017.pdf)  :star::star::star:
 
 ## 1.14 Art, Design, and Fashion
 
@@ -176,7 +176,7 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 **[52]** Redford, Kent H., William Adams, and Georgina M. Mace. "**Synthetic biology and conservation of nature: wicked problems and wicked solutions.**" PLoS Biol 11.4 (2013): e1001530. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/synthetic-biology-and-conservation-of-nature-wicked-problems-and-wicked-solutions-2013.pdf)  :star::star::star:
 
-**[53]** Oye, Kenneth A., et al. "**Regulating gene drives.**" Science 345.6197 (2014): 626-628.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/regulating-gene-drives-2014.pdf)  :star::star::star::star::
+**[53]** Oye, Kenneth A., et al. "**Regulating gene drives.**" Science 345.6197 (2014): 626-628.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/regulating-gene-drives-2014.pdf)  :star::star::star::star:
 
 # 2 The Biological Switch
 
