@@ -48,9 +48,6 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 **[5]**  Wall, Michael E., William S. Hlavacek, and Michael A. Savageau. "**Design of gene circuits: lessons from bacteria.**" Nature Reviews Genetics 5.1 (2004): 34-42.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/design-of-gene-circuits-lessions-from-bacteria-2004.pdf)  :star::star::star::star::star:
 
-## 1. DNA Design
-
-
 ## 1.3 The Minimal Genome and Genome Design
 
 **[6]** Mushegian, Arcady. "**The minimal genome concept.**" Current opinion in genetics & development 9.6 (1999): 709-714.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/blob/master/papers/the-minimal-genome-concept-1999.pdf)  :star::star::star::star::star:
@@ -64,6 +61,8 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 ## 1.4 Microbial Chemical Refineries
 
 **[9]** Woolston, Benjamin M., Steven Edgar, and Gregory Stephanopoulos. "**Metabolic engineering: past and future.**" Annual review of chemical and biomolecular engineering 4 (2013): 259-288.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/metabolic-engineering-past-and-future-2013.pdf)  :star::star::star:
+
+**[]** organelles 
 
 ## 1.5 Biosensors
 
@@ -89,19 +88,27 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 **[17]** Mueller, U. G., and J. L. Sachs. "**Engineering microbiomes to improve plant and animal health.**" Trends in microbiology 23.10 (2015): 606-617.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/engineering-microbiomes-to-improve-plant-and-animal-health-2015.pdf)  :star::star::star:
 
-**[18]** gene drives
+**[18]** Esvelt, Kevin M., et al. "**Concerning RNA-guided gene drives for the alteration of wild populations.**" Elife 3 (2014): e03401.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/emerging-technology-concerning-rna-guided-gene-drives-for-the-alteration-of-wild-populations-2014.pdf)  :star::star::star:
+
+**[]** Brenner, Katie, Lingchong You, and Frances H. Arnold. "**Engineering microbial consortia: a new frontier in synthetic biology.**" Trends in biotechnology 26.9 (2008): 483-489.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/engineering-microbial-consortia-a-new-frontier-in-synthetic-biology-2008.pdf)  :star::star::star::star::star:
 
 ## 1.10 Synthetic Biology and Evolution
 
 **[23]** Packer, Michael S., and David R. Liu. "**Methods for the directed evolution of proteins.**" Nature Reviews Genetics 16.7 (2015): 379-394.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/methods-for-the-directed-evolution-of-proteins-2015.pdf) :star::star::star::star:
 
-**[]** asr synbio
+**[]** Kacar, Betul, and Eric Gaucher. "**Towards the recapitulation of ancient history in the laboratory: combining synthetic biology with experimental evolution.**" arXiv preprint arXiv:1209.5032 (2012).  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/towards-the-recapitulation-of-ancient-history-in-the-laboratory-combining-synthetic-biology-with-experimental-evolution-2014.pdf)  :star::star:
+
+**[]** Bayer, Travis S. "**Using synthetic biology to understand the evolution of gene expression.**" Current Biology 20.17 (2010): R772-R779.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/using-synthetic-biology-to-understand-the-evolution-of-gene-expression-2010.pdf)  :star::star:
 
 ## 1.7 RNA Synthetic Biology and CRISPR
 
 **[19]** Isaacs, Farren J., Daniel J. Dwyer, and James J. Collins. "**RNA synthetic biology.**" Nature biotechnology 24.5 (2006): 545-554.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/rna-synthetic-biology-2006.pdf)  :star::star::star::star::star:
 
 **[20]** McKeague, Maureen, Remus S. Wong, and Christina D. Smolke. "**Opportunities in the design and application of RNA for gene expression control.**" Nucleic acids research (2016): gkw151.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/opportunities-in-the-design-and-application-of-rna-for-gene-control-expression-2016.pdf)  :star::star::star:
+
+**[]** Makarova, Kira S., et al. "**Evolution and classification of the CRISPR–Cas systems.**" Nature Reviews Microbiology 9.6 (2011): 467-477.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/evolution-and-classification-of-the-crispr-cas-system-2011.pdf)  :star::star::star::star::star:
+
+**[]** Hsu, Patrick D., Eric S. Lander, and Feng Zhang. "**Development and applications of CRISPR-Cas9 for genome engineering.**" Cell 157.6 (2014): 1262-1278.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/development-and-applications-of-crispr-cas9-for-genome-engineering-2014.pdf)  :star::star::star::star::star:
 
 ## 1.9 iGEM
 
@@ -111,9 +118,9 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 ## 1.8 Systems Biology and Mathematical Biology
 
-**[]** paalson
+**[]** Orth, Jeffrey D., Ines Thiele, and Bernhard Ø. Palsson. "**What is flux balance analysis?**" Nature biotechnology 28.3 (2010): 245-248.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/what-is-flux-balance-analysis-2010.pdf)  :star::star::star::star::star:
 
-**[]** covert
+**[]** Macklin, Derek N., Nicholas A. Ruggero, and Markus W. Covert. "**The future of whole-cell modeling.**" Current opinion in biotechnology 28 (2014): 111-115.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/the-future-of-whole-cell-modeling-2014.pdf) :star::star::star:
 
 **[]** mathematical biology
 
@@ -145,6 +152,8 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 **[26]** Gutmann, Amy. "**The ethics of synthetic biology: guiding principles for emerging technologies.**" Hastings Center Report 41.4 (2011): 17-22. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/the-ethics-of-synthetic-biology-guiding-principles-for-emerging-technologies-2011.pdf)  :star::star::star:
 
 **[27]** Redford, Kent H., William Adams, and Georgina M. Mace. "**Synthetic biology and conservation of nature: wicked problems and wicked solutions.**" PLoS Biol 11.4 (2013): e1001530. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/synthetic-biology-and-conservation-of-nature-wicked-problems-and-wicked-solutions-2013.pdf)  :star::star::star:
+
+**[]** Oye, Kenneth A., et al. "**Regulating gene drives.**" Science 345.6197 (2014): 626-628.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/regulating-gene-drives-2014.pdf)  :star::star::star::star::
 
 # 2 The Biological Switch
 
