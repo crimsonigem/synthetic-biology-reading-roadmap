@@ -48,6 +48,9 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 **[]**  Wall, Michael E., William S. Hlavacek, and Michael A. Savageau. "**Design of gene circuits: lessons from bacteria.**" Nature Reviews Genetics 5.1 (2004): 34-42.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/design-of-gene-circuits-lessions-from-bacteria-2004.pdf)  :star::star::star::star::star:
 
+## 1. DNA Design
+
+
 ## 1.3 The Minimal Genome and Genome Design
 
 **[]** Mushegian, Arcady. "**The minimal genome concept.**" Current opinion in genetics & development 9.6 (1999): 709-714.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/blob/master/papers/the-minimal-genome-concept-1999.pdf)  :star::star::star::star::star:
@@ -56,7 +59,11 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 **[]** Haimovich, Adrian D., Paul Muir, and Farren J. Isaacs. "**Genomes by design.**" Nature Reviews Genetics 16.9 (2015): 501-516.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/genomes-by-design-2015.pdf)  :star::star::star:
 
+**[]** DNA architecture
+
 ## 1.4 Microbial Chemical Refineries
+
+**[]** Woolston, Benjamin M., Steven Edgar, and Gregory Stephanopoulos. "**Metabolic engineering: past and future.**" Annual review of chemical and biomolecular engineering 4 (2013): 259-288.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/metabolic-engineering-past-and-future-2013.pdf)  :star::star::star:
 
 ## 1.5 Biosensors
 
@@ -72,9 +79,11 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 **[]** Esvelt, Kevin M., and Harris H. Wang. "**Genome‐scale engineering for systems and synthetic biology.**" Molecular systems biology 9.1 (2013): 641. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/genome-scale-engineering-for-systems-and-synthetic-biology-2013.pdf) :star::star::star::star::star::
 
-## 1.6 Plant Synthetic Biology
+## 1.6 Plant Synthetic Biology and Photosynthesis
 
 **[]** Baltes, Nicholas J., and Daniel F. Voytas. "**Enabling plant synthetic biology through genome engineering.**" Trends in biotechnology 33.2 (2015): 120-131. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/enabling-plant-synthetic-biology-through-genome-engineering-2014.pdf)  :star::star::star::star:
+
+**[]** Maurino, Veronica G., and Andreas PM Weber. "**Engineering photosynthesis in plants and synthetic microorganisms.**" Journal of experimental botany 64.3 (2013): 743-751.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/engineering-photosynthesis-in-plants-and-synthetic-microorganisms-2013.pdf)  :star::star::star:
 
 ## 1.7 Ecosystems Engineering
 
@@ -118,7 +127,7 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 **[]** Synbiobeta
 
-## 1.10 Art, Design, and Fashion
+## 1.10 Art, Design, Foods and Fashion
 
 **[]** Media Lab
 **[]** Descience
@@ -138,4 +147,10 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 # 2 The Biological Switch
 
 # 3 Metabolic Engineering
+
+# 4 Miscellaneous
+
+**[]** Synth choloroplast
+
+
 
