@@ -24,6 +24,7 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 **[]** morowitz
 **[]** woese
 **[]** feynman
+**[]** knight bbf rfc10
 **[]** endy
 **[]** lac operon
 **[]** restriction enzymes
@@ -35,6 +36,8 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 **[1]** Luisi, Pier Luigi. "**The emergence of life: from chemical origins to synthetic biology.**"" Cambridge University Press, 2016. [[Amazon]](https://www.amazon.com/Emergence-Life-Chemical-Origins-Synthetic/dp/1107092396/ref=sr_1_1/156-7545658-9645617?ie=UTF8&qid=1488486403&sr=8-1&keywords=emergence+of+life)[[eBook Preview]](https://books.google.com/books?hl=en&lr=&id=q4UwDQAAQBAJ&oi=fnd&pg=PR11&ots=-DZlXydGfO&sig=XZ5cP_-jnQID_TfKaAFK05juDv0#v=onepage&q&f=false)
 :star::star::star::star::star:
+
+**[]** Kwok, Roberta. "**Five hard truths for synthetic biology: can engineering approaches tame the complexity of living systems? Roberta Kwok explores five challenges for the field and how they might be resolved.**" Nature 463.7279 (2010): 288-291.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/five-hard-truths-for-synthetic-biology-2010.pdf)  :star::star::star::star:
 
 **[2]** Way, Jeffrey C., et al. "**Integrating biological redesign: where synthetic biology came from and where it needs to go.**" Cell 157.1 (2014): 151-161. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/integrating-biological-redesign-where-synthetic-biology-came-from-and-where-it-needs-to-go-2014.pdf)
 :star::star::star::star:
@@ -60,7 +63,7 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 ## 1.4 Microbial Chemical Refineries
 
-**[9]** Woolston, Benjamin M., Steven Edgar, and Gregory Stephanopoulos. "**Metabolic engineering: past and future.**" Annual review of chemical and biomolecular engineering 4 (2013): 259-288.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/metabolic-engineering-past-and-future-2013.pdf)  :star::star::star:
+**[]** Jullesson, David, et al. "Impact of synthetic biology and metabolic engineering on industrial production of fine chemicals." Biotechnology advances 33.7 (2015): 1395-1402.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/blob/master/papers/impact-of-synthetic-biology-and-metabolic-engineering-on-industrial-production-of-fine-chemicals-2015.pdf)
 
 **[]** organelles 
 
@@ -118,18 +121,24 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 ## 1.8 Systems Biology and Mathematical Biology
 
+**[9]** Woolston, Benjamin M., Steven Edgar, and Gregory Stephanopoulos. "**Metabolic engineering: past and future.**" Annual review of chemical and biomolecular engineering 4 (2013): 259-288.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/metabolic-engineering-past-and-future-2013.pdf)  :star::star::star::star:
+
 **[]** Raue, Andreas, et al. "**Lessons learned from quantitative dynamical modeling in systems biology.**" PLoS One 8.9 (2013): e74335.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/lessons-learned-from-quantitative-dynamical-modeling-in-systems-biology-2013.pdf) :star::star::star::star::star:
 
 **[]** Orth, Jeffrey D., Ines Thiele, and Bernhard Ø. Palsson. "**What is flux balance analysis?**" Nature biotechnology 28.3 (2010): 245-248.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/what-is-flux-balance-analysis-2010.pdf)  :star::star::star::star::star:
 
 **[]** Macklin, Derek N., Nicholas A. Ruggero, and Markus W. Covert. "**The future of whole-cell modeling.**" Current opinion in biotechnology 28 (2014): 111-115.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/the-future-of-whole-cell-modeling-2014.pdf) :star::star::star:
 
-**[]** mathematical biology
+**[]** Gunawardena, Jeremy. "**Models in biology:‘accurate descriptions of our pathetic thinking’.**" BMC biology 12.1 (2014): 29.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/models-in-biology-accurate-descriptions-of-our-pathetic-thinking-2014.pdf)  :star::star::star::star:
 
 ## 1.13 Enabling Technologies in Synthetic Biology
 
-**[]** sequencing
-**[]** synthesis
+**[]** Mardis, Elaine R. "**DNA sequencing technologies: 2006-2016.**" Nature Protocols 12.2 (2017): 213-218.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/dna-sequencing-technologies-2006-2016-2017.pdf)  :star::star::star:
+
+**[]** Kosuri, Sriram, and George M. Church. "***Large-scale de novo DNA synthesis: technologies and applications.**" Nature methods 11.5 (2014): 499-507.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/large-scale-de-novo-dna-synthesis-technologies-and-applications-2014.pdf)  :star::star::star::star:
+
+**[]** Chao, Ran, Yongbo Yuan, and Huimin Zhao. "**Recent advances in DNA assembly technologies.**" FEMS yeast research 15.1 (2015): 1-9.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/recent-advances-in-dna-assembly-technologies-2015.pdf)  :star::star::star:
+
 **[]** computation
 **[]** analytic hardware technologies
 **[]** automation and scale
