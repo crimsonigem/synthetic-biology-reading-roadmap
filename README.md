@@ -66,9 +66,11 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 ## 1.6 Plant Synthetic Biology
 
-**[]** Baltes, Nicholas J., and Daniel F. Voytas. "**Enabling plant synthetic biology through genome engineering.**" Trends in biotechnology 33.2 (2015): 120-131. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/enabling-plant-synthetic-biology-through-genome-engineering-2014.pdf)  :star::star::star::star::
+**[]** Baltes, Nicholas J., and Daniel F. Voytas. "**Enabling plant synthetic biology through genome engineering.**" Trends in biotechnology 33.2 (2015): 120-131. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/enabling-plant-synthetic-biology-through-genome-engineering-2014.pdf)  :star::star::star::star:
 
 ## 1.7 Ecosystems Engineering
+
+**[]** Mueller, U. G., and J. L. Sachs. "**Engineering microbiomes to improve plant and animal health.**" Trends in microbiology 23.10 (2015): 606-617.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/engineering-microbiomes-to-improve-plant-and-animal-health-2015.pdf)  :star::star::star:
 
 ## 1.7 RNA Synthetic Biology and CRISPR
 
@@ -80,9 +82,21 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 **[]** Matheson, Susan. "**Engineering a Biological Revolution.**" Cell 168.3 (2017): 329-332.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/engineering-a-biological-revolution-2017.pdf)  :star::star::star:
 
-**[]** Brown, James. "**The iGEM competition: building with biology.**" IET Synthetic Biology 1.1 (2007): 3-6.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/the-igem-competition-building-with-biology-2007.pdf)  :star::star::star::star::
+**[]** Brown, James. "**The iGEM competition: building with biology.**" IET Synthetic Biology 1.1 (2007): 3-6.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/the-igem-competition-building-with-biology-2007.pdf)  :star::star::star::star:
 
 ## 1.8 Systems Biology
+
+**[]** paalson
+
+**[]** covert
+
+## 1.10 Synthetic Biology and Evolution
+
+**[]** Packer, Michael S., and David R. Liu. "**Methods for the directed evolution of proteins.**" Nature Reviews Genetics 16.7 (2015): 379-394.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/methods-for-the-directed-evolution-of-proteins-2015.pdf) :star::star::star::star:
+
+**[]** gene drives
+
+**[]** asr synbio
 
 ## 1.13 Enabling Technologies in Synthetic Biology
 
@@ -100,13 +114,7 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 **[]** Redford, Kent H., William Adams, and Georgina M. Mace. "**Synthetic biology and conservation of nature: wicked problems and wicked solutions.**" PLoS Biol 11.4 (2013): e1001530. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/synthetic-biology-and-conservation-of-nature-wicked-problems-and-wicked-solutions-2013.pdf)  :star::star::star:
 
-
-
-
-
-
-
 # 2 The Biological Switch
 
-# Metabolic Engineering
+# 3 Metabolic Engineering
 
