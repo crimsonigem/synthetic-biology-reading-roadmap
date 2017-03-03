@@ -22,7 +22,7 @@ I would continue adding papers to this roadmap.
 
 ## 1.1 History of Synthetic Biology
 
-**[0]** Cameron, D. Ewen, Caleb J. Bashor, and James J. Collins. "**A brief history of synthetic biology.**." Nature Reviews Microbiology. (2014). [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/papers/a-brief-history-of-synthetic-biology-2014.pdf)  :star::star::star::star::star:
+**[0]** Cameron, D. Ewen, Caleb J. Bashor, and James J. Collins. "**A brief history of synthetic biology.**." Nature Reviews Microbiology. (2014). [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/blob/master/papers/a-brief-history-of-synthetic-biology-2014.pdf)  :star::star::star::star::star:
 
 **[1]** Luisi, Pier Luigi. "**The emergence of life: from chemical origins to synthetic biology.**"" Cambridge University Press, 2016. [[Amazon]](https://www.amazon.com/Emergence-Life-Chemical-Origins-Synthetic/dp/1107092396/ref=sr_1_1/156-7545658-9645617?ie=UTF8&qid=1488486403&sr=8-1&keywords=emergence+of+life)[[eBook Preview]](https://books.google.com/books?hl=en&lr=&id=q4UwDQAAQBAJ&oi=fnd&pg=PR11&ots=-DZlXydGfO&sig=XZ5cP_-jnQID_TfKaAFK05juDv0#v=onepage&q&f=false)
 :star::star::star::star::star:
@@ -36,7 +36,7 @@ I would continue adding papers to this roadmap.
 
 ## 1.5 Gene Circuit Design
 
-**[2]** Brophy, Jennifer AN, and Christopher A. Voigt. "**Principles of genetic circuit design.**" Nature methods 11.5 (2014): 508-520. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/papers/principles-of-genetic-circuit-design-2014.pdf))
+**[2]** Brophy, Jennifer AN, and Christopher A. Voigt. "**Principles of genetic circuit design.**" Nature methods 11.5 (2014): 508-520. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/blob/master/papers/principles-of-genetic-circuit-design-2014.pdf))
 :star::star::star::star:
 
 ## 1.6 Ethics Biosafety 
