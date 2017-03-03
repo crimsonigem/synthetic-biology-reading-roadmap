@@ -118,6 +118,8 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 ## 1.8 Systems Biology and Mathematical Biology
 
+**[]** Raue, Andreas, et al. "**Lessons learned from quantitative dynamical modeling in systems biology.**" PLoS One 8.9 (2013): e74335.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/lessons-learned-from-quantitative-dynamical-modeling-in-systems-biology-2013.pdf) :star::star::star::star::star:
+
 **[]** Orth, Jeffrey D., Ines Thiele, and Bernhard Ø. Palsson. "**What is flux balance analysis?**" Nature biotechnology 28.3 (2010): 245-248.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/what-is-flux-balance-analysis-2010.pdf)  :star::star::star::star::star:
 
 **[]** Macklin, Derek N., Nicholas A. Ruggero, and Markus W. Covert. "**The future of whole-cell modeling.**" Current opinion in biotechnology 28 (2014): 111-115.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/the-future-of-whole-cell-modeling-2014.pdf) :star::star::star:
