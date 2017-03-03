@@ -29,6 +29,7 @@ I would continue adding papers to this roadmap.
 
 ## 1.2 Mammalian Synthetic Biology
 
+**[2]** Lienert, Florian, et al. "**Synthetic biology in mammalian cells: next generation research tools and therapeutics.**" Nature Reviews Molecular Cell Biology 15.2 (2014): 95-107. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/synthetic-biology-in-mammalian-cells-next-generation-research-tools-and-therapeutics-2014.pdf)  :star::star::star::star:
 
 ## 1.3 Minimal Genome
 
@@ -36,7 +37,7 @@ I would continue adding papers to this roadmap.
 
 ## 1.5 Gene Circuit Design
 
-**[2]** Brophy, Jennifer AN, and Christopher A. Voigt. "**Principles of genetic circuit design.**" Nature methods 11.5 (2014): 508-520. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/principles-of-genetic-circuit-design-2014.pdf))
+**[3]** Brophy, Jennifer AN, and Christopher A. Voigt. "**Principles of genetic circuit design.**" Nature methods 11.5 (2014): 508-520. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/principles-of-genetic-circuit-design-2014.pdf))
 :star::star::star::star:
 
 ## 1.6 Ethics Biosafety 
