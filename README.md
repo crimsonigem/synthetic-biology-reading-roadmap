@@ -24,11 +24,11 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 **[]** morowitz
 **[]** woese
 **[]** feynman
-**[]** knight bbf rfc10
 **[]** endy
 **[]** lac operon
 **[]** restriction enzymes
 **[]** Discovery of DNA
+**[]** Knight, T.  "**Draft Standard for Biobrick Biological Parts**" OpenWetWare RSS. BioBrick Foundation, 3 May 2007. Web. 03 Mar. 2017.  [[txt]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/draft-standard-for-biobrick-biological-parts-2007.txt)  :star::star::star::star::star:
 
 ## 1.1 History and Future of Synthetic Biology
 
@@ -37,16 +37,16 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 **[1]** Luisi, Pier Luigi. "**The emergence of life: from chemical origins to synthetic biology.**"" Cambridge University Press, 2016. [[Amazon]](https://www.amazon.com/Emergence-Life-Chemical-Origins-Synthetic/dp/1107092396/ref=sr_1_1/156-7545658-9645617?ie=UTF8&qid=1488486403&sr=8-1&keywords=emergence+of+life)[[eBook Preview]](https://books.google.com/books?hl=en&lr=&id=q4UwDQAAQBAJ&oi=fnd&pg=PR11&ots=-DZlXydGfO&sig=XZ5cP_-jnQID_TfKaAFK05juDv0#v=onepage&q&f=false)
 :star::star::star::star::star:
 
-**[]** Kwok, Roberta. "**Five hard truths for synthetic biology: can engineering approaches tame the complexity of living systems? Roberta Kwok explores five challenges for the field and how they might be resolved.**" Nature 463.7279 (2010): 288-291.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/five-hard-truths-for-synthetic-biology-2010.pdf)  :star::star::star::star:
+**[2]** Kwok, Roberta. "**Five hard truths for synthetic biology: can engineering approaches tame the complexity of living systems? Roberta Kwok explores five challenges for the field and how they might be resolved.**" Nature 463.7279 (2010): 288-291.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/five-hard-truths-for-synthetic-biology-2010.pdf)  :star::star::star::star:
 
-**[]** Purnick, Priscilla EM, and Ron Weiss. "**The second wave of synthetic biology: from modules to systems.**" Nature reviews Molecular cell biology 10.6 (2009): 410-422.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/the-second-wave-of-synthetic-biology-from-modules-to-systems-2009.pdf)  :star::star::star::star:
+**[3]** Purnick, Priscilla EM, and Ron Weiss. "**The second wave of synthetic biology: from modules to systems.**" Nature reviews Molecular cell biology 10.6 (2009): 410-422.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/the-second-wave-of-synthetic-biology-from-modules-to-systems-2009.pdf)  :star::star::star::star:
 
-**[2]** Way, Jeffrey C., et al. "**Integrating biological redesign: where synthetic biology came from and where it needs to go.**" Cell 157.1 (2014): 151-161. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/integrating-biological-redesign-where-synthetic-biology-came-from-and-where-it-needs-to-go-2014.pdf)
+**[4]** Way, Jeffrey C., et al. "**Integrating biological redesign: where synthetic biology came from and where it needs to go.**" Cell 157.1 (2014): 151-161. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/integrating-biological-redesign-where-synthetic-biology-came-from-and-where-it-needs-to-go-2014.pdf)
 :star::star::star::star:
 
 ## 1.2 Gene Circuit Design and Modeling in Synthetic Biology
 
-**[3]** Brophy, Jennifer AN, and Christopher A. Voigt. "**Principles of genetic circuit design.**" Nature methods 11.5 (2014): 508-520. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/principles-of-genetic-circuit-design-2014.pdf))
+**[5] Brophy, Jennifer AN, and Christopher A. Voigt. "**Principles of genetic circuit design.**" Nature methods 11.5 (2014): 508-520. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/principles-of-genetic-circuit-design-2014.pdf))
 :star::star::star::star::star:
 
 **[4]** Slusarczyk, Adrian L., Allen Lin, and Ron Weiss. "**Foundations for the design and implementation of synthetic genetic circuits.**" Nature Reviews Genetics 13.6 (2012): 406-420.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/foundations-for-the-design-and-implementation-of-synthetic-genetic-circuits-2012.pdf)  :star::star::star::star::star:
@@ -65,7 +65,7 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 ## 1.4 Microbial Chemical Refineries
 
-**[]** Jullesson, David, et al. "Impact of synthetic biology and metabolic engineering on industrial production of fine chemicals." Biotechnology advances 33.7 (2015): 1395-1402.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/blob/master/papers/impact-of-synthetic-biology-and-metabolic-engineering-on-industrial-production-of-fine-chemicals-2015.pdf)
+**[]** Jullesson, David, et al. "Impact of synthetic biology and metabolic engineering on industrial production of fine chemicals." Biotechnology advances 33.7 (2015): 1395-1402.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/blob/master/papers/impact-of-synthetic-biology-and-metabolic-engineering-on-industrial-production-of-fine-chemicals-2015.pdf)  :star::star::star::star::star:
 
 **[]** organelles 
 
