@@ -39,6 +39,8 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 **[]** Kwok, Roberta. "**Five hard truths for synthetic biology: can engineering approaches tame the complexity of living systems? Roberta Kwok explores five challenges for the field and how they might be resolved.**" Nature 463.7279 (2010): 288-291.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/five-hard-truths-for-synthetic-biology-2010.pdf)  :star::star::star::star:
 
+**[]** Purnick, Priscilla EM, and Ron Weiss. "**The second wave of synthetic biology: from modules to systems.**" Nature reviews Molecular cell biology 10.6 (2009): 410-422.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/the-second-wave-of-synthetic-biology-from-modules-to-systems-2009.pdf)  :star::star::star::star:
+
 **[2]** Way, Jeffrey C., et al. "**Integrating biological redesign: where synthetic biology came from and where it needs to go.**" Cell 157.1 (2014): 151-161. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/integrating-biological-redesign-where-synthetic-biology-came-from-and-where-it-needs-to-go-2014.pdf)
 :star::star::star::star:
 
@@ -138,6 +140,8 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 **[]** Kosuri, Sriram, and George M. Church. "***Large-scale de novo DNA synthesis: technologies and applications.**" Nature methods 11.5 (2014): 499-507.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/large-scale-de-novo-dna-synthesis-technologies-and-applications-2014.pdf)  :star::star::star::star:
 
 **[]** Chao, Ran, Yongbo Yuan, and Huimin Zhao. "**Recent advances in DNA assembly technologies.**" FEMS yeast research 15.1 (2015): 1-9.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/recent-advances-in-dna-assembly-technologies-2015.pdf)  :star::star::star:
+
+**[]** Kahl, Linda J., and Drew Endy. "**A survey of enabling technologies in synthetic biology.**" Journal of biological engineering 7.1 (2013): 13.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/survey-of-enabling-technologies-in-synthetic-biology-2013.pdf)  :star::star::star::star:
 
 **[]** computation
 **[]** analytic hardware technologies
