@@ -91,6 +91,12 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 **[18]** gene drives
 
+## 1.10 Synthetic Biology and Evolution
+
+**[23]** Packer, Michael S., and David R. Liu. "**Methods for the directed evolution of proteins.**" Nature Reviews Genetics 16.7 (2015): 379-394.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/methods-for-the-directed-evolution-of-proteins-2015.pdf) :star::star::star::star:
+
+**[]** asr synbio
+
 ## 1.7 RNA Synthetic Biology and CRISPR
 
 **[19]** Isaacs, Farren J., Daniel J. Dwyer, and James J. Collins. "**RNA synthetic biology.**" Nature biotechnology 24.5 (2006): 545-554.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/rna-synthetic-biology-2006.pdf)  :star::star::star::star::star:
@@ -103,17 +109,13 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 **[22]** Brown, James. "**The iGEM competition: building with biology.**" IET Synthetic Biology 1.1 (2007): 3-6.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/the-igem-competition-building-with-biology-2007.pdf)  :star::star::star::star:
 
-## 1.8 Systems Biology
+## 1.8 Systems Biology and Mathematical Biology
 
 **[]** paalson
 
 **[]** covert
 
-## 1.10 Synthetic Biology and Evolution
-
-**[23]** Packer, Michael S., and David R. Liu. "**Methods for the directed evolution of proteins.**" Nature Reviews Genetics 16.7 (2015): 379-394.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/methods-for-the-directed-evolution-of-proteins-2015.pdf) :star::star::star::star:
-
-**[]** asr synbio
+**[]** mathematical biology
 
 ## 1.13 Enabling Technologies in Synthetic Biology
 
