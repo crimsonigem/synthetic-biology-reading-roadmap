@@ -158,7 +158,7 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 **[44]** Agapakis, Christina M. "**Designing synthetic biology.**" ACS synthetic biology 3.3 (2013): 121-128.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-reading-roadmap/raw/master/papers/designing-synthetic-biology-2013.pdf)  :star::star:
 
-**[45]** Oxman, Neri. "***Templating Design for Biology and Biology for Design.***" Architectural Design 85.5 (2015): 100-107.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-reading-roadmap/raw/master/papers/templating-design-for-biology-and-biology-for-design-2015.pdf)  :star::star::star:
+**[45]** Oxman, Neri. "**Templating Design for Biology and Biology for Design.***" Architectural Design 85.5 (2015): 100-107.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-reading-roadmap/raw/master/papers/templating-design-for-biology-and-biology-for-design-2015.pdf)  :star::star::star:
 
 **[46]** Dance, Amber. "**Science and Culture: The art of designing life.**" Proceedings of the National Academy of Sciences 112.49 (2015): 14999-15001.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-reading-roadmap/raw/master/papers/science-and-culture-the-art-of-designing-life-2015.pdf)  :star::star::star:
 
