@@ -13,7 +13,7 @@ The roadmap is constructed in accordance with the following four guidelines:
 
 You will find many papers that are quite new but really worth reading.
 
-This list is curated by the Harvard BioDesign Team.  Please contact us at crimsonigem at gmail dot com for comments and updates! 
+This list is curated by the Harvard BioDesign Team.  Please contact us at crimsonigem at gmail dot com for comments and updates!
 
 ---------------------------------------
 
@@ -29,7 +29,7 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 **[]** restriction enzymes
 **[]** Discovery of DNA
 
-**[]** Knight, T.  "**Draft Standard for Biobrick Biological Parts**" OpenWetWare RSS. BioBrick Foundation, 3 May 2007. Web. 03 Mar. 2017.  [[txt]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/draft-standard-for-biobrick-biological-parts-2007.txt)  :star::star::star::star::star:
+**[]** Knight, T.  "**Draft Standard for Biobrick Biological Parts**":poop: OpenWetWare RSS. BioBrick Foundation, 3 May 2007. Web. 03 Mar. 2017.  [[txt]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/draft-standard-for-biobrick-biological-parts-2007.txt)  :star::star::star::star::star:
 
 ## 1.1 History and Future of Synthetic Biology
 
@@ -166,7 +166,7 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 
 **[48]** BioFabricate [[link]](http://www.biofabricate.co/)
 
-## 1.15 Ethics and Biosafety 
+## 1.15 Ethics and Biosafety
 
 **[49]** Barras, Vincent, and Gilbert Greub. "**History of biological warfare and bioterrorism.**" Clinical Microbiology and Infection 20.6 (2014): 497-502. [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/history-of-biological-warfare-and-bioterrorism-2014.pdf) :star::star::star:
 
@@ -179,6 +179,3 @@ This list is curated by the Harvard BioDesign Team.  Please contact us at crimso
 **[53]** Oye, Kenneth A., et al. "**Regulating gene drives.**" Science 345.6197 (2014): 626-628.  [[pdf]](https://github.com/crimsonigem/synthetic-biology-roadmap/raw/master/papers/regulating-gene-drives-2014.pdf)  :star::star::star::star:
 
 # 2 The Biological Switch
-
-
-
